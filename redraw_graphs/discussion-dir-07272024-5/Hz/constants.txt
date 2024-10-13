@@ -1,0 +1,19 @@
+    ===== CONSTANTS INFO =====
+
+system dir:   /Users/joe/Documents/Whisper/discussion-dirs/discussion-dir-07272024-5/discussion-dir-Hz/juzu
+input dir:    /Users/joe/Documents/Whisper/discussion-dirs/discussion-dir-07272024-5/discussion-dir-Hz/data-dir
+
+uzume settings:
+    minimum audible frequency:        20
+    maximum audible frequency:        20000
+
+    minimum frequency difference:     70
+    minimum contribution difference:  1.0 * 10 ** -3
+    out formant number:               30
+
+
+kazune settings:
+    kazune formant number:            6
+    kazune threshold:                 60
+    kazune error range:               10
+    kazune accuracy:                  3
